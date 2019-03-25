@@ -12,7 +12,7 @@ Chaque exercice doit être réalisé en respectant les normes W3C afin d'avoir u
 *Pensez à vérifier que votre page HTML soit bien responsive.*  
 **Reproduire l'image "Bootstrap1" se trouvant dans le dossier /img : Utiliser uniquement des classes Bootstrap.**
 
-![Exercice 1](partie-2-html-css/bootstrap/img/Bootstrap1.PNG)
+![Exercice 1](bootstrap/img/Bootstrap1.PNG)
 
 
 
