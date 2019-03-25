@@ -20,11 +20,11 @@ Chaque exercice doit être réalisé en respectant les normes W3C afin d'avoir u
 *Pensez à vérifier que votre page HTML soit bien responsive.*  
 **Reproduire l'image "Bootstrap2" se trouvant dans le dossier /img : Utiliser uniquement des classes Bootstrap.**
 
-![Exercice 2](partie-2-html-css/bootstrap/img/Bootstrap2.PNG)
+![Exercice 2](img/Bootstrap2.PNG)
 
 **Attention** : Faire en sorte que sur un petit écran, les blocs occupent tout l'écran et s'alignent horizontalement.
 
-![Exercice 2](partie-2-html-css/bootstrap/img/Bootstrap2b.PNG)
+![Exercice 2](img/Bootstrap2b.PNG)
 
 
 
@@ -32,7 +32,7 @@ Chaque exercice doit être réalisé en respectant les normes W3C afin d'avoir u
 *Pensez à vérifier que votre page HTML soit bien responsive.*  
 **Reproduire l'image "Bootstrap3" se trouvant dans le dossier /img : Utiliser uniquement des classes Bootstrap.**
 
-![Exercice 3](partie-2-html-css/bootstrap/img/Bootstrap3.PNG)
+![Exercice 3](img/Bootstrap3.PNG)
 
 **Attention** : Faire en sorte de centrer le texte.
 
@@ -44,9 +44,9 @@ Chaque exercice doit être réalisé en respectant les normes W3C afin d'avoir u
 * Faire "une card" avec un bouton.
 * Le bouton de la card permettra d'ouvrir "une modal
 
-![Exercice 4](partie-2-html-css/bootstrap/img/Bootstrap4.PNG)
+![Exercice 4](img/Bootstrap4.PNG)
 
-![Exercice 4](partie-2-html-css/bootstrap/img/Bootstrap4b.PNG)
+![Exercice 4](img/Bootstrap4b.PNG)
 
 
 
